@@ -74,7 +74,6 @@ PES_Wii_Editor_GPLv3_Project/
 - Atualiza dados no arquivo binário sem gerar cópias temporárias.
 
 ### Limitações
-- O `over.afs` ainda **não é suportado**.
 - O Wii ainda recusa saves editados (verificação adicional não identificada).
 - Algumas strings (nomes de jogadores) precisam de tratamento de encoding/padding.
 
@@ -84,6 +83,6 @@ Fornecem análise de estrutura, verificação de checksums e leitura dos dados d
 ## 🧠 Conclusão
 Mesmo sem quebrar totalmente a verificação, este projeto representa um grande avanço no entendimento dos saves do PES 2013 Wii.
 
-Criado com ❤️ por **Breno Rodrigues** e **ChatGPT**.
+Criado por **Breno Rodrigues** e **ChatGPT**.
 
 Distribuído sob a licença **GNU GPL v3.0**.
