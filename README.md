@@ -81,10 +81,10 @@ PES_Wii_Editor_GPLv3_Project/
 Fornecem análise de estrutura, verificação de checksums e leitura dos dados dos jogadores.
 
 ## 🧠 Conclusão
-Mesmo sem quebrar totalmente a verificação, este projeto representa um grande avanço no entendimento dos saves do PES 2013 Wii.
+Mesmo sem quebrar totalmente a verificação, este projeto representa um grande avanço no entendimento dos saves do PES 2011 Wii.
 
 Criado por **Breno Rodrigues** e **ChatGPT**.
 
-Agradecimentos especiais ao Luis Henrique (https://www.youtube.com/@LuisHenrique-lo4us) que me disponibilinou um save de PES 2011 que ajudou muito nas descobertas.
+Agradecimentos especiais ao Luis Henrique (https://www.youtube.com/@LuisHenrique-lo4us) que me disponibilizou um save de PES 2011 que ajudou muito nas descobertas.
 
 Distribuído sob a licença **GNU GPL v3.0**.
