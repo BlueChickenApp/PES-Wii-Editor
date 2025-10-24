@@ -1,7 +1,7 @@
 
 ## 🏆 Sobre o Projeto — PES Wii Editor
 
-Este projeto nasceu da curiosidade e da vontade de entender o que acontece dentro dos arquivos do **PES 2013 para Nintendo Wii**.  
+Este projeto nasceu da curiosidade e da vontade de entender o que acontece dentro dos arquivos do **PES 2011 para Nintendo Wii**.  
 Durante dias de testes, erros, descobertas e noites longas de bytes e offsets, eu e o ChatGPT mergulhamos fundo na estrutura do arquivo **`edit_u1`**, que guarda praticamente toda a alma dos jogadores do jogo.
 
 Conseguimos descobrir que:
@@ -37,7 +37,7 @@ Licenciado sob **GNU GPL v3.0**
 
 # PES Wii Editor (Alpha_0.4)
 
-Projeto de engenharia reversa e editor para o jogo **Pro Evolution Soccer 2013 (Wii)**.
+Projeto de engenharia reversa e editor para o jogo **Pro Evolution Soccer 2011 (Wii)**.
 
 ## 🎯 Objetivo
 Compreender e editar os arquivos internos do jogo — especialmente `edit_u1` e `unnamed_46.bin_000`, que armazenam os dados dos jogadores e times.
@@ -84,5 +84,7 @@ Fornecem análise de estrutura, verificação de checksums e leitura dos dados d
 Mesmo sem quebrar totalmente a verificação, este projeto representa um grande avanço no entendimento dos saves do PES 2013 Wii.
 
 Criado por **Breno Rodrigues** e **ChatGPT**.
+
+Agradecimentos especiais ao Luis Henrique (https://www.youtube.com/@LuisHenrique-lo4us) que me disponibilinou um save de PES 2011 que ajudou muito nas descobertas.
 
 Distribuído sob a licença **GNU GPL v3.0**.
